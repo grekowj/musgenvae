@@ -1,4 +1,5 @@
 # musgenvae
+J. Grekow and T. Dimitrova-Grekow, Monophonic Music Generation With a Given Emotion Using Conditional Variational Autoencoder, IEEE Access, vol. 9, pp. 129088-129101, (2021)
 
 1. dataset - training examples - This dataset is licensed under a CC BY-NC
 2. generated_exaples - set of generated MIDI examples (CVAE_GRU)
